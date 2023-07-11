@@ -1,3 +1,6 @@
+![Uploading Git-banner.jpeg…]()
+
+
 # 💫 About Me:
 :wave: Hello! I'm Heavenboi, a passionate software engineering student with a strong interest in creating innovative solutions. :computer: Currently pursuing software engineering, I am dedicated to honing my skills in codingodingng, problem-solving, and collaborating with others.<br>:rocket: As a lifelong learner, I actively engage in personal projects and seek opportunities to expand my knowledge. I enjoy tackling challenging problems and leveraging the power of technology to make a positive impact.<br>:bulb: Beyond coding, I thrive in collaborative environments, valuing effective communication and teamwork. I believe in the significance of creating user-centered software that enhances user experiences.<br>:star2: Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for potential opportunities. Together, we can shape the future through software engineering. :rainbow:
 
