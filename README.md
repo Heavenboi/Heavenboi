@@ -1,4 +1,5 @@
-![Uploading Git-banner.jpeg…]()
+![Git-banner](https://github.com/Heavenboi/Heavenboi/assets/101174282/aad381cc-77e3-4617-86fd-faa912622ad6)
+
 
 
 # 💫 About Me:
